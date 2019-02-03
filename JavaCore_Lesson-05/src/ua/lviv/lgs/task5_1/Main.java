@@ -3,9 +3,9 @@ package ua.lviv.lgs.task5_1;
 public class Main {
 
 	public static void main(String[] args) {
-		Cow cow = new Cow ("Марта");
-		Cat cat = new Cat ("Мурка");
-		Dog dog = new Dog ("Джек");
+		Cow cow = new Cow ("РњР°СЂС‚Р°");
+		Cat cat = new Cat ("РњСѓСЂРєР°");
+		Dog dog = new Dog ("Р”Р¶РµРє");
 
 		cow.voice();
 		cat.voice();

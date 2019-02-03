@@ -6,9 +6,9 @@ public class Coin {
 		int throwResult = (int) (Math.random() * 2);
 		
 		if (throwResult == 1)
-			System.out.println("Îğåë");
+			System.out.println("ĞÑ€ĞµĞ»");
 		else
-			System.out.println("Ğåøêà");
+			System.out.println("Ğ ĞµÑˆĞºĞ°");
 	}
 	
 }

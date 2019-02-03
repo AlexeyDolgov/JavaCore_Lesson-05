@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		// бросаем монету 10 раз
+		// Р±СЂРѕСЃР°РµРј РјРѕРЅРµС‚Сѓ 10 СЂР°Р·
 		for (int i = 0; i<10; i++){
 			Coin.throwCoin();
 		}

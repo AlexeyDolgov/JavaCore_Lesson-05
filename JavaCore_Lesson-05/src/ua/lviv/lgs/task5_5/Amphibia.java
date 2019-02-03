@@ -3,19 +3,19 @@ package ua.lviv.lgs.task5_5;
 public class Amphibia {
 
 	public void eat() {
-		System.out.println("Хочу есть!");
+		System.out.println("РҐРѕС‡Сѓ РµСЃС‚СЊ!");
 	}
 	
 	public void sleep() {
-		System.out.println("Хочу спать!");
+		System.out.println("РҐРѕС‡Сѓ СЃРїР°С‚СЊ!");
 	}
 
 	public void swim() {
-		System.out.println("Хочу плавать!");
+		System.out.println("РҐРѕС‡Сѓ РїР»Р°РІР°С‚СЊ!");
 	}
 
 	public void walk() {
-		System.out.println("Хочу гулять!");
+		System.out.println("РҐРѕС‡Сѓ РіСѓР»СЏС‚СЊ!");
 	}
 	
 }

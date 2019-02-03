@@ -9,7 +9,7 @@ public class Cat extends Pet {
 
 @Override
 void voice() {
-	System.out.println("ß - êîøêà " + super.getName() + ", ìÿóóó...");
+	System.out.println("Ğ¯ - ĞºĞ¾ÑˆĞºĞ° " + super.getName() + ", Ğ¼ÑÑƒÑƒÑƒ...");
 }
 
 }
